@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá amigo 👋
 
 Eu sou apenas um estudante tentando aprender informática e programação. Acompanhe-me nessa jornada
 <!--
